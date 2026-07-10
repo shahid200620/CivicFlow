@@ -219,7 +219,7 @@ This repository serves as technical documentation describing the architecture, w
 
 **Presentation Link**
 
-> Add your PPT or PDF presentation link here.
+`https://docs.google.com/presentation/d/1C9mViwj6AAveIBnYkkv83x1aMRG4pojv/edit?usp=sharing&ouid=117668241938972796563&rtpof=true&sd=true`
 
 ---
 
